@@ -30,17 +30,17 @@ Outside solo builds, I led a six-person team through Smart India Hackathon 2025 
 
 <p align="center">
   <a href="https://github.com/syednzaheer/Sentinel">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=syednzaheer&repo=Sentinel&theme=tokyonight&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="Sentinel" />
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=syednzaheer&repo=Sentinel&theme=tokyonight&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&hide_border=true&bg_color=00000000&cb=CACHEBUST" alt="Sentinel" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/syednzaheer/J.A.R.V.I.S.">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=syednzaheer&repo=J.A.R.V.I.S.&theme=tokyonight&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="J.A.R.V.I.S." />
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=syednzaheer&repo=J.A.R.V.I.S.&theme=tokyonight&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&hide_border=true&bg_color=00000000&cb=CACHEBUST" alt="J.A.R.V.I.S." />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/syednzaheer/AMACOS">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=syednzaheer&repo=AMACOS&theme=tokyonight&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&hide_border=true&bg_color=00000000" alt="AMACOS" />
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=syednzaheer&repo=AMACOS&theme=tokyonight&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&hide_border=true&bg_color=00000000&cb=CACHEBUST" alt="AMACOS" />
   </a>
 </p>
 
@@ -115,10 +115,10 @@ Outside solo builds, I led a six-person team through Smart India Hackathon 2025 
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=syednzaheer&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=syednzaheer&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=syednzaheer&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true&cb=CACHEBUST" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=syednzaheer&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8&cb=CACHEBUST" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syednzaheer&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="Contribution activity" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syednzaheer&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true&cb=CACHEBUST" alt="Contribution activity" />
 </p>
