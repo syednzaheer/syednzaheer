@@ -1,0 +1,34 @@
+name: Refresh README cache-buster
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:         # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Bump cache-bust value
+        run: |
+          TS=$(date +%s)
+          # Replace any existing cb=<value> with the current timestamp
+          sed -i -E "s/cb=[0-9A-Za-z]+/cb=${TS}/g" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore: refresh readme card cache [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
