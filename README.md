@@ -62,7 +62,7 @@ Outside solo builds, I led a six-person team through Smart India Hackathon 2025 
     <td>Operating Systems, Computer Networking, and Cloud Security in more depth</td>
   </tr>
   <tr>
-    <td><b>Open to</b></td>
+    <td><b>Open To</b></td>
     <td>Internships in Cybersecurity, Backend Engineering, Systems, and Infrastructure</td>
   </tr>
   <tr>
@@ -70,9 +70,6 @@ Outside solo builds, I led a six-person team through Smart India Hackathon 2025 
     <td>Python, Flask, Linux, Networking, System Design, Threat Detection</td>
   </tr>
   <tr>
-    <td><b>Off-Record</b></td>
-    <td>2 Years, 4 Semesters, 36 Subjects, 0 Backlogs - Still Building</td>
-  </tr>
 </table>
 
 <br>
